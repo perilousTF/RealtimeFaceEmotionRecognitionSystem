@@ -7,9 +7,8 @@ Follow these steps to clone the project and run the real-time application on you
 1. Clone the Project
 To get a local copy of this repository, open your terminal or command prompt and run the following command:
 
-git clone https://github.com/perilousTF/RealtimeFaceEmotionRecognitionSystem.git
-
-cd RealtimeFaceEmotionRecognitionSystem
+git clone <URL of your GitHub repository>
+cd RealtimeFaceEmotionRecognition
 
 
 2. Run the Application
