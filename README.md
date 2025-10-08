@@ -53,7 +53,6 @@ The process for building and training the convolutional neural network (CNN) mod
 - TensorFlow
 - OpenCV
 - NumPy
-- Other dependencies (see `requirements.txt` if available)
 
 ## 🎯 Features
 
@@ -68,11 +67,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Contributions, issues, and feature requests are welcome! 
 
 ## 👤 Author
 
-Your Name - [Your GitHub Profile](https://github.com/perilousTF)
+Your Name - [github@perilousTF](https://github.com/perilousTF)
 
 ## 🙏 Acknowledgments
 
